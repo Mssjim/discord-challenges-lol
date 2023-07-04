@@ -1,6 +1,7 @@
 require('dotenv').config();
 const Discord = require('discord.js');
 const fs = require('fs');
+const keepalive = require('./server.js');
 
 // Code
 console.log('Starting...');
@@ -24,3 +25,4 @@ fs.readdirSync('./src/handlers/').forEach(async(handler) => {
 });
 
 client.login(process.env.TOKEN);
+keepalive();
