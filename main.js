@@ -11,7 +11,8 @@ const client = new Discord.Client({
         Discord.GatewayIntentBits.Guilds,
         Discord.GatewayIntentBits.GuildMessages,
         Discord.GatewayIntentBits.GuildMembers,
-        Discord.GatewayIntentBits.MessageContent
+        Discord.GatewayIntentBits.MessageContent,
+        Discord.GatewayIntentBits.GuildMessageReactions
   ]});
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();

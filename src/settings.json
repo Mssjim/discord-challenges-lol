@@ -1,3 +1,8 @@
 {
+    "json" : "true",
     "prefix" : ";",
+    "lang" : "pt",
+    "owners" : ["446678418147508236"],
+    "supportServer" : "https://discord.gg/h38gTNyPXA",
+    "invite": "https://discord.com/oauth2/authorize?client_id=1116157326605422652&scope=bot&permissions=414464724033"
 }
