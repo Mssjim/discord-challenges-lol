@@ -1,3 +1,17 @@
 {
-    "Demacia": ["Fiora"]
+    "Harmonia": {
+        "Águas de Sentina": ["Fizz", "Gangplank", "Graves", "Illaoi", "Miss Fortune", "Nautilus", "Nilah", "Pyke", "Tahm Kench", "Twisted Fate"],
+        "Bandópolis": ["Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", "Poppy", "Rumble", "Teemo", "Tristana", "Veigar", "Vex", "Yuumi", "Ziggs"],
+        "Demacia": ["Fiora", "Galio", "Garen", "Jarvan IV", "Kayle", "Lucian", "Lux", "Morgana", "Poppy", "Quinn", "Shyvana", "Sona", "Sylas", "Vayne", "Xin Zhao"],
+        "Freljord": ["Anivia", "Ashe", "Braum", "Gnar", "Gragas", "Lissandra", "Nunu e Willump", "Olaf", "Ornn", "Sejuani", "Trundle", "Tryndamere", "Udyr", "Volibear"],
+        "Ionia": ["Ahri", "Akali", "Irelia", "Ivern", "Jhin", "Karma", "Kayn", "Kennen", "Lee Sin", "Lillia", "Master Yi", "Rakan", "Sett", "Shen", "Syndra", "Varus", "Wukong", "Xayah", "Yasuo", "Yone", "Zed"],
+        "Ixtal": ["Malphite", "Milio", "Neeko", "Nidalee", "Qiyana", "Rengar", "Zyra"],
+        "Noxus": ["Cassiopeia", "Darius", "Draven", "Katarina", "Kled", "LeBlanc", "Rell", "Riven", "Samira", "Sion", "Swain", "Talon", "Vladimir"],
+        "Piltover": ["Caitlyn", "Camille", "Corki", "Ezreal", "Heimerdinger", "Jayce", "Orianna", "Seraphine", "Vi"],
+        "Ilhas das Sombras": ["Elise", "Evelynn", "Fiddlesticks", "Gwen", "Hecarim", "Kalista", "Karthus", "Maokai", "Senna", "Thresh", "Viego", "Yorick"],
+        "Shurima": ["Akshan", "Amumu", "Azir", "K'Sante", "Nasus", "Rammus", "Renekton", "Sivir", "Skarner", "Taliyah", "Xerath", "Zilean"],
+        "Targon": ["Aphelios", "Aurelion Sol", "Diana", "Leona", "Pantheon", "Soraka", "Taric", "Zoe."],
+        "Vazio": ["Bel'Veth", "Cho'Gath", "Kai'sa", "Kassadin", "Kha'Zix", "Kog'Maw", "Malzahar", "Rek'Sai", "Vel'Koz"],
+        "Zaun": ["Blitzcrank", "Dr. Mundo", "Ekko", "Janna", "Jinx", "Renata Glasc", "Singed", "Twitch", "Urgot", "Viktor", "Warwick", "Zac", "Zeri", "Ziggs"]
+    }
 }
