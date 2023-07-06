@@ -1,5 +1,64 @@
 {
-    "Harmonia": {
+    "comps": {
+        "Armadilha": {
+            "min": 3,
+            "champs": ["Caitlyn", "Gangplank", "Jhin", "Jinx", "Maokai", "Nidalee", "Shaco", "Teemo", "Ziggs", "Zyra"]
+        },
+        "Deslocamento": {
+            "min": 3,
+            "champs": ["Alistar", "Azir", "Blitzcrank", "Darius", "Gnar", "Gragas", "Hecarim", "Janna", "Jayce", "K'Sante", "Kled", "Lee Sin", "Maokai", "Mordekaiser", "Nautilus", "Nillah", "Oriana", "Poppy", "Pyke", "Rell", "Sett", "Singed", "Skarner", "Swain", "Tahm Kenchan", "Talliyah", "Thresh", "Tristana", "Urgot", "Vayne", "Xin Zhao", "Yone", "Zac", "Ziggs"]
+        },
+        "Escudo": {
+            "min": 3,
+            "champs": ["Alistar", "Annie", "Bardo", "Fiora", "Galio", "Ivern", "Janna", "K'Sante", "Karma", "Kayle", "Kindred", "Lee Sin", "Lulu", "Lux", "Milio", "Morgana", "Nami", "Nidalee", "Nilah", "Oriana", "Rakan", "Renata Glasc", "Senna", "Seraphine", "Shen", "Sona", "Soraka", "Tahm Kench", "Taric", "Thresh", "Yuumi", "Zilean"]
+        },
+        "Furtividade": {
+            "min": 3,
+            "champs": ["Akali", "Akshan", "Evelynn", "Kai'Sa", "Kha'Zix", "LeBlanc", "Neeko", "Nocturne", "Pyke", "Qiyana", "Rengar", "Senna", "Shaco", "Talon", "Teemo", "Twitch", "Vayne", "Viego", "Wukong"]
+        },
+        "Global": {
+            "min": 3,
+            "champs": ["Akshan", "Ashe", "Aurelion Sol", "Bardo", "Caitlyn", "Draven", "Ezreal", "Galio", "Gangplank", "Jhin", "Jinx", "Kai'Sa", "Karthus", "Kled", "Lillia", "Lux", "Maokai", "Nocturne", "Pantheon", "Ryze", "Senna", "Shen", "Sion", "Soraka", "Swain", "Talliyah", "Twisted Fate", "Vex", "Xerath", "Ziggs"]
+        },
+        "Imobilização": {
+            "min": 3,
+            "champs": ["Aatrox", "Alistar", "Amumu", "Anivia", "Bardo", "Blitzcrank", "Braum", "Camille", "Galio", "Gnar", " Gragas", "Hecarim", "Ivern", "Janna", "Jarvan IV", "K'Sante", "Kled", "LeBlanc", "Leona", " Lissandra", "Lulu", "Maokai", "Morgana", "Nami", "Nautilus", "Neeko", "Nunu e Willump", "Ornn", "Poppy", "Pyke", "Qiyana", "Rammus", "Rell", "Renata Glasc", "Riven", "Sejuani", "Seraphine", "Sett", "Shaco", "Singed", "Sion", "Skarner", "Tahm Kench", "Thresh", "Urgot", "Vi", "Warwick", "Xin Zhao", "Yasuo", "Yone", "Zac", "Zyra"]
+        },
+        "Imunidade": {
+            "min": 3,
+            "champs": ["Akshan", "Alistar", "Anivia", "Bardo", "Bel'Veth", "Braum", "Ekko", "Elise", "Evelynn", "Fiora", "Fizz", "Gwen", "Jax", "K'Sante", "Kalista", "Karthus", "Kayle", "Kayn", "Kindred", "Kled", "Kog'Maw", "Lissandra", "Malzahar", "Maokai", "Master Yi", "Olaf", "Pantheon", "Rakan", "Renata Glasc", "Sion", "Tahm Kench", "Taric", "Tryndamere", "Vladmir", "Xin Zhao", "Yuumi", "Zac", "Zed", "Zilean"]
+        },
+        "Invocadores": {
+            "min": 5,
+            "champs": ["Annie", "Azir", "Bel'Veth", "Elise", "Fiddlesticks", "Heimerdinger", "Illaoi", "Ivern", "Kalista", "Kindred", "Lissandra", "Malzahar", "Maokai", "Neeko", "Oriana", "Shaco", "Yorick", "Zed", "Zyra"]
+        },
+        "Poke": {
+            "min": 3,
+            "champs": ["Akshan", "Ashe", "Azir", "Caitlyn", "Cho'Gath", "Corki", "Dr. Mundo", "Ezreal", "Gangplank", "Jayce", "Jhin", "Jinx", "Kai'Sa", "Karma", "Kled", "Kog'Maw", "Lux", "Maokai", "Milio", "Nidalee", "Pantheon", "Senna", "Seraphine", "Shyvana", "Sivir", "Talliyah", "Twisted Fate", "Varus", "Vel'Koz", "Vex", "Viktor", "Xayah", "Xerath", "Yuumi", "Zeri", "Ziggs", "Zoe"]
+        },
+        "Terreno": {
+            "min": 3,
+            "champs": ["Anivia", "Azir", "Irelia", "Ivern", "Jarvan IV", "Ornn", "Talliyah", "Trundle", "Veigar", "Yorick"]
+        },
+        "Ultimate": {
+            "min": 3,
+            "champs": ["Amumu", "Anivia", "Annie", "Aurelion Sol", "Azir", "Bardo", "Bel'Veth", "Blitzcrank", "Braum", "Cassiopeia", "Corki", "Diana", "Draven", "Ekko", "Evelynn", "Ezreal", "Fiddlesticks", "Fizz", "Galio", "Gangplank", "Gnar", "Gragas", "Graves", "Hecarim", "Heimerdinger", "Illaoi", "Janna", "Jarvan IV", "Jinx", "Karthus", "Katarina", "Kayle", "Kennen", "Leona", "Lissandra", "Lux", "Malphite", "Maokai", "Milio", "Miss Fortune", "Morgana", "Nami", "Neeko", "Nilah", "Nunu e Willump", "Orianna", "Ornn", "Pantheon", "Qiyana", "Rakan", "Rammus", "Rell", "Renata Glasc", "Riven", "Rumble", "Samira", "Sejuani", "Senna", "Seraphine", "Sett", "Sona", "Swain", "Talon", "Twitch", "Vel'Koz", "Viktor", "Vladimir", "Volibear", "Xayah", "Xin Zhao", "Yone", "Yuumi", "Zac", "Zeri", "Ziggs", "Zyra"]
+        }
+    },
+    
+    "variedade": {
+        "min": 5,
+        "champs": {
+            "Assassinos": ["Ahri", "Akali", "Akshan", "Ekko", "Evelynn", "Fiora", "Fizz", "Gwen", "Irelia", "Jax", "Kassadin", "Katarina", "Kayn", "Khazix", "Leblanc", "LeeSin", "Malzahar", "MasterYi", "Nidalee", "Nilah", "Nocturne", "Pantheon", "Pyke", "Qiyana", "Quinn", "Rengar", "Riven", "Shaco", "Sylas", "Talon", "Teemo", "Tristana", "Tryndamere", "Twitch", "Vayne", "Vi", "Viego", "XinZhao", "Yasuo", "Yone", "Zed"],
+            "Atiradores": ["Akshan", "Aphelios", "Ashe", "Azir", "Caitlyn", "Corki", "Draven", "Ezreal", "Graves", "Jayce", "Jhin", "Jinx", "Kaisa", "Kalista", "Kennen", "Kindred", "KogMaw", "Lucian", "MissFortune", "Quinn", "Samira", "Senna", "Sivir", "Teemo", "Tristana", "Twitch", "Varus", "Vayne", "Xayah", "Zeri"],
+            "Lutadores": ["Aatrox", "Belveth", "Blitzcrank", "Camille", "Darius", "Diana", "DrMundo", "Ekko", "Elise", "Fiora", "Fizz", "Gangplank", "Garen", "Gnar", "Gragas", "Gwen", "Hecarim", "Illaoi", "Irelia", "JarvanIV", "Jax", "Jayce", "Kayle", "Kayn", "Kled", "KSante", "LeeSin", "Lillia", "Malphite", "MasterYi", "MonkeyKing", "Mordekaiser", "Nasus", "Nilah", "Nocturne", "Nunu", "Olaf", "Ornn", "Pantheon", "Poppy", "Qiyana", "Rammus", "RekSai", "Renekton", "Rengar", "Riven", "Rumble", "Ryze", "Sejuani", "Sett", "Shyvana", "Singed", "Sion", "Skarner", "Swain", "Taric", "Thresh", "Trundle", "Tryndamere", "Udyr", "Urgot", "Vi", "Viego", "Volibear", "Warwick", "XinZhao", "Yasuo", "Yone", "Yorick", "Zac"],
+            "Magos": ["Ahri", "Amumu", "Anivia", "Annie", "AurelionSol", "Azir", "Bard", "Brand", "Cassiopeia", "Chogath", "Diana", "Elise", "Evelynn", "Ezreal", "Fiddlesticks", "Galio", "Gragas", "Heimerdinger", "Ivern", "Janna", "Jhin", "Karma", "Karthus", "Kassadin", "Katarina", "Kennen", "KogMaw", "Leblanc", "Lillia", "Lissandra", "Lulu", "Lux", "Malzahar", "Maokai", "Morgana", "Nami", "Neeko", "Nidalee", "Orianna", "Renata", "Rumble", "Ryze", "Seraphine", "Sona", "Soraka", "Swain", "Sylas", "Syndra", "Taliyah", "TwistedFate", "Varus", "Veigar", "Velkoz", "Vex", "Viktor", "Vladimir", "Xerath", "Yuumi", "Ziggs", "Zilean", "Zoe", "Zyra"],
+            "Suportes": ["Alistar", "Anivia", "Ashe", "Bard", "Braum", "Fiddlesticks", "Heimerdinger", "Ivern", "Janna", "Karma", "Kayle", "Leona", "Lulu", "Lux", "Morgana", "Nami", "Nautilus", "Neeko", "Orianna", "Pyke", "Rakan", "Rell", "Renata", "Senna", "Seraphine", "Sona", "Soraka", "TahmKench", "Taliyah", "Taric", "Thresh", "Yuumi", "Zilean", "Zoe", "Zyra"],
+            "Tanques": ["Aatrox", "Alistar", "Amumu", "Blitzcrank", "Braum", "Camille", "Chogath", "Darius", "DrMundo", "Galio", "Garen", "Gnar", "Hecarim", "Illaoi", "JarvanIV", "Kled", "KSante", "Leona", "Malphite", "Maokai", "MonkeyKing", "Nasus", "Nautilus", "Nunu", "Olaf", "Ornn", "Poppy", "Rammus", "Rell", "Renekton", "Sejuani", "Sett", "Shen", "Shyvana", "Singed", "Sion", "Skarner", "TahmKench", "Trundle", "Udyr", "Urgot", "Volibear", "Warwick", "Yorick", "Zac"]
+        }
+    },
+
+    "regioes": {
         "Águas de Sentina": ["Fizz", "Gangplank", "Graves", "Illaoi", "Miss Fortune", "Nautilus", "Nilah", "Pyke", "Tahm Kench", "Twisted Fate"],
         "Bandópolis": ["Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", "Poppy", "Rumble", "Teemo", "Tristana", "Veigar", "Vex", "Yuumi", "Ziggs"],
         "Demacia": ["Fiora", "Galio", "Garen", "Jarvan IV", "Kayle", "Lucian", "Lux", "Morgana", "Poppy", "Quinn", "Shyvana", "Sona", "Sylas", "Vayne", "Xin Zhao"],
