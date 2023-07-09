@@ -6,71 +6,71 @@
         },
         "Deslocamento": {
             "min": 3,
-            "champs": ["Alistar", "Azir", "Blitzcrank", "Darius", "Gnar", "Gragas", "Hecarim", "Janna", "Jayce", "K'Sante", "Kled", "Lee Sin", "Maokai", "Mordekaiser", "Nautilus", "Nillah", "Oriana", "Poppy", "Pyke", "Rell", "Sett", "Singed", "Skarner", "Swain", "Tahm Kenchan", "Talliyah", "Thresh", "Tristana", "Urgot", "Vayne", "Xin Zhao", "Yone", "Zac", "Ziggs"]
+            "champs": ["Alistar", "Azir", "Blitzcrank", "Darius", "Gnar", "Gragas", "Hecarim", "Janna", "Jayce", "K'Sante", "Kled", "Lee Sin", "Maokai", "Mordekaiser", "Nautilus", "Nilah", "Orianna", "Poppy", "Pyke", "Rell", "Sett", "Singed", "Skarner", "Swain", "Tahm Kench", "Taliyah", "Thresh", "Tristana", "Urgot", "Vayne", "Xin Zhao", "Yone", "Zac", "Ziggs"]
         },
         "Escudo": {
             "min": 3,
-            "champs": ["Alistar", "Annie", "Bardo", "Fiora", "Galio", "Ivern", "Janna", "K'Sante", "Karma", "Kayle", "Kindred", "Lee Sin", "Lulu", "Lux", "Milio", "Morgana", "Nami", "Nidalee", "Nilah", "Oriana", "Rakan", "Renata Glasc", "Senna", "Seraphine", "Shen", "Sona", "Soraka", "Tahm Kench", "Taric", "Thresh", "Yuumi", "Zilean"]
+            "champs": ["Alistar", "Annie", "Bardo", "Fiora", "Galio", "Ivern", "Janna", "K'Sante", "Karma", "Kayle", "Kindred", "Lee Sin", "Lulu", "Lux", "Milio", "Morgana", "Nami", "Nidalee", "Nilah", "Orianna", "Rakan", "Rell", "Renata Glasc", "Seraphine", "Senna", "Shen", "Sona", "Soraka", "Tahm Kench", "Taric", "Thresh", "Yuumi", "Zilean"]
         },
         "Furtividade": {
             "min": 3,
-            "champs": ["Akali", "Akshan", "Evelynn", "Kai'Sa", "Kha'Zix", "LeBlanc", "Neeko", "Nocturne", "Pyke", "Qiyana", "Rengar", "Senna", "Shaco", "Talon", "Teemo", "Twitch", "Vayne", "Viego", "Wukong"]
+            "champs": ["Akali", "Akshan", "Evelynn", "Kai'Sa", "Kha'Zix", "Leblanc", "Neeko", "Nocturne", "Pyke", "Qiyana", "Rengar", "Senna", "Shaco", "Talon", "Teemo", "Twitch", "Vayne", "Viego", "Wukong"]
         },
         "Global": {
             "min": 3,
-            "champs": ["Akshan", "Ashe", "Aurelion Sol", "Bardo", "Caitlyn", "Draven", "Ezreal", "Galio", "Gangplank", "Jhin", "Jinx", "Kai'Sa", "Karthus", "Kled", "Lillia", "Lux", "Maokai", "Nocturne", "Pantheon", "Ryze", "Senna", "Shen", "Sion", "Soraka", "Swain", "Talliyah", "Twisted Fate", "Vex", "Xerath", "Ziggs"]
+            "champs": ["Akshan", "Ashe", "Bardo", "Caitlyn", "Draven", "Ezreal", "Galio", "Gangplank", "Jhin", "Jinx", "Kai'Sa", "Karthus", "Kled", "Lillia", "Lux", "Maokai", "Nocturne", "Pantheon", "Ryze", "Senna", "Shen", "Sion", "Soraka", "Swain", "Taliyah", "TwistedFate", "Vex", "Xerath", "Ziggs"]
         },
         "Imobilização": {
             "min": 3,
-            "champs": ["Aatrox", "Alistar", "Amumu", "Anivia", "Bardo", "Blitzcrank", "Braum", "Camille", "Galio", "Gnar", " Gragas", "Hecarim", "Ivern", "Janna", "Jarvan IV", "K'Sante", "Kled", "LeBlanc", "Leona", " Lissandra", "Lulu", "Maokai", "Morgana", "Nami", "Nautilus", "Neeko", "Nunu e Willump", "Ornn", "Poppy", "Pyke", "Qiyana", "Rammus", "Rell", "Renata Glasc", "Riven", "Sejuani", "Seraphine", "Sett", "Shaco", "Singed", "Sion", "Skarner", "Tahm Kench", "Thresh", "Urgot", "Vi", "Warwick", "Xin Zhao", "Yasuo", "Yone", "Zac", "Zyra"]
+            "champs": ["Aatrox", "Alistar", "Amumu", "Anivia", "Bardo", "Blitzcrank", "Braum", "Camille", "Galio", "Gnar", "Gragas", "Hecarim", "Ivern", "Janna", "JarvanIV", "K'Sante", "Kled", "Leblanc", "Leona", "Lissandra", "Lulu", "Maokai", "Morgana", "Nami", "Nautilus", "Neeko", "Nunu", "Ornn", "Poppy", "Pyke", "Qiyana", "Rammus", "Rell", "Renata Glasc", "Riven", "Sejuani", "Seraphine", "Sett", "Shaco", "Singed", "Sion", "Skarner", "Tahm Kench", "Thresh", "Urgot", "Vi", "Warwick", "Xin Zhao", "Yasuo", "Yone", "Zac", "Zyra"]
         },
         "Imunidade": {
             "min": 3,
-            "champs": ["Akshan", "Alistar", "Anivia", "Bardo", "Bel'Veth", "Braum", "Ekko", "Elise", "Evelynn", "Fiora", "Fizz", "Gwen", "Jax", "K'Sante", "Kalista", "Karthus", "Kayle", "Kayn", "Kindred", "Kled", "Kog'Maw", "Lissandra", "Malzahar", "Maokai", "Master Yi", "Olaf", "Pantheon", "Rakan", "Renata Glasc", "Sion", "Tahm Kench", "Taric", "Tryndamere", "Vladmir", "Xin Zhao", "Yuumi", "Zac", "Zed", "Zilean"]
+            "champs": ["Akshan", "Alistar", "Anivia", "Bardo", "Bel'Veth", "Braum", "Ekko", "Elise", "Evelynn", "Fiora", "Fizz", "Gwen", "Jax", "K'Sante", "Kalista", "Karthus", "Kayle", "Kayn", "Kindred", "Kled", "Kog'Maw", "Lissandra", "Malzahar", "Maokai", "Master Yi", "Olaf", "Pantheon", "Rakan", "Renata Glasc", "Sion", "Tahm Kench", "Taric", "Tryndamere", "Vladimir", "Xin Zhao", "Yuumi", "Zac", "Zed", "Zilean"]
         },
         "Invocadores": {
             "min": 5,
-            "champs": ["Annie", "Azir", "Bel'Veth", "Elise", "Fiddlesticks", "Heimerdinger", "Illaoi", "Ivern", "Kalista", "Kindred", "Lissandra", "Malzahar", "Maokai", "Neeko", "Oriana", "Shaco", "Yorick", "Zed", "Zyra"]
+            "champs": ["Annie", "Azir", "Bel'Veth", "Elise", "Fiddlesticks", "Heimerdinger", "Illaoi", "Ivern", "Kalista", "Kindred", "Lissandra", "Malzahar", "Maokai", "Neeko", "Orianna", "Shaco", "Yorick", "Zed", "Zyra"]
         },
         "Poke": {
             "min": 3,
-            "champs": ["Akshan", "Ashe", "Azir", "Caitlyn", "Cho'Gath", "Corki", "Dr. Mundo", "Ezreal", "Gangplank", "Jayce", "Jhin", "Jinx", "Kai'Sa", "Karma", "Kled", "Kog'Maw", "Lux", "Maokai", "Milio", "Nidalee", "Pantheon", "Senna", "Seraphine", "Shyvana", "Sivir", "Talliyah", "Twisted Fate", "Varus", "Vel'Koz", "Vex", "Viktor", "Xayah", "Xerath", "Yuumi", "Zeri", "Ziggs", "Zoe"]
+            "champs": ["Akshan", "Ashe", "Azir", "Caitlyn", "Cho'Gath", "Corki", "Dr. Mundo", "Ezreal", "Gangplank", "Jayce", "Jhin", "Jinx", "Kai'Sa", "Karma", "Kled", "Kog'Maw", "Lux", "Maokai", "Milio", "Nidalee", "Pantheon", "Seraphine", "Senna", "Shyvana", "Sivir", "Taliyah", "TwistedFate", "Varus", "Vel'Koz", "Vex", "Viktor", "Xayah", "Xerath", "Yuumi", "Zeri", "Ziggs", "Zoe"]
         },
         "Terreno": {
             "min": 3,
-            "champs": ["Anivia", "Azir", "Irelia", "Ivern", "Jarvan IV", "Ornn", "Talliyah", "Trundle", "Veigar", "Yorick"]
+            "champs": ["Anivia", "Azir", "Irelia", "Ivern", "JarvanIV", "Ornn", "Taliyah", "Trundle", "Veigar", "Yorick"]
         },
         "Ultimate": {
             "min": 3,
-            "champs": ["Amumu", "Anivia", "Annie", "Aurelion Sol", "Azir", "Bardo", "Bel'Veth", "Blitzcrank", "Braum", "Cassiopeia", "Corki", "Diana", "Draven", "Ekko", "Evelynn", "Ezreal", "Fiddlesticks", "Fizz", "Galio", "Gangplank", "Gnar", "Gragas", "Graves", "Hecarim", "Heimerdinger", "Illaoi", "Janna", "Jarvan IV", "Jinx", "Karthus", "Katarina", "Kayle", "Kennen", "Leona", "Lissandra", "Lux", "Malphite", "Maokai", "Milio", "Miss Fortune", "Morgana", "Nami", "Neeko", "Nilah", "Nunu e Willump", "Orianna", "Ornn", "Pantheon", "Qiyana", "Rakan", "Rammus", "Rell", "Renata Glasc", "Riven", "Rumble", "Samira", "Sejuani", "Senna", "Seraphine", "Sett", "Sona", "Swain", "Talon", "Twitch", "Vel'Koz", "Viktor", "Vladimir", "Volibear", "Xayah", "Xin Zhao", "Yone", "Yuumi", "Zac", "Zeri", "Ziggs", "Zyra"]
+            "champs": ["Amumu", "Anivia", "Annie", "Aurelion Sol", "Azir", "Bardo", "Bel'Veth", "Blitzcrank", "Braum", "Cassiopeia", "Corki", "Diana", "Draven", "Ekko", "Evelynn", "Ezreal", "Fiddlesticks", "Fizz", "Galio", "Gangplank", "Gnar", "Gragas", "Graves", "Hecarim", "Heimerdinger", "Illaoi", "Janna", "JarvanIV", "Jinx", "Karthus", "Katarina", "Kayle", "Kennen", "Leona", "Lissandra", "Lux", "Malphite", "Maokai", "Milio", "Miss Fortune", "Morgana", "Nami", "Neeko", "Nilah", "Nunu", "Orianna", "Ornn", "Pantheon", "Qiyana", "Rakan", "Rammus", "Rell", "Renata Glasc", "Riven", "Rumble", "Samira", "Sejuani", "Senna", "Seraphine", "Sett", "Sona", "Swain", "Talon", "Twitch", "Vel'Koz", "Viktor", "Vladimir", "Volibear", "Xayah", "Xin Zhao", "Yone", "Yuumi", "Zac", "Zeri", "Ziggs", "Zyra"]
+        },
+        "Variedade": {
+            "min": 5,
+            "champs": {
+                "Assassinos": ["Ahri", "Akali", "Akshan", "Ekko", "Evelynn", "Fiora", "Fizz", "Gwen", "Irelia", "Jax", "Kassadin", "Katarina", "Kayn", "Kha'Zix", "Leblanc", "Lee Sin", "Malzahar", "Master Yi", "Nidalee", "Nilah", "Nocturne", "Pantheon", "Pyke", "Qiyana", "Quinn", "Rengar", "Riven", "Shaco", "Sylas", "Talon", "Teemo", "Tristana", "Tryndamere", "Twitch", "Vayne", "Vi", "Viego", "Xin Zhao", "Yasuo", "Yone", "Zed"],
+                "Atiradores": ["Akshan", "Aphelios", "Ashe", "Azir", "Caitlyn", "Corki", "Draven", "Ezreal", "Graves", "Jayce", "Jhin", "Jinx", "Kai'Sa", "Kalista", "Kennen", "Kindred", "Kog'Maw", "Lucian", "Miss Fortune", "Quinn", "Samira", "Senna", "Sivir", "Teemo", "Tristana", "Twitch", "Varus", "Vayne", "Xayah", "Zeri"],
+                "Lutadores": ["Aatrox", "Bel'Veth", "Blitzcrank", "Camille", "Darius", "Diana", "Dr. Mundo", "Ekko", "Elise", "Fiora", "Fizz", "Gangplank", "Garen", "Gnar", "Gragas", "Gwen", "Hecarim", "Illaoi", "Irelia", "JarvanIV", "Jax", "Jayce", "Kayle", "Kayn", "Kled", "K'Sante", "Lee Sin", "Lillia", "Malphite", "Master Yi", "Wukong", "Mordekaiser", "Nasus", "Nilah", "Nocturne", "Nunu", "Olaf", "Ornn", "Pantheon", "Poppy", "Qiyana", "Rammus", "Rek'Sai", "Renekton", "Rengar", "Riven", "Rumble", "Ryze", "Sejuani", "Sett", "Shyvana", "Singed", "Sion", "Skarner", "Swain", "Taric", "Thresh", "Trundle", "Tryndamere", "Udyr", "Urgot", "Vi", "Viego", "Volibear", "Warwick", "Xin Zhao", "Yasuo", "Yone", "Yorick", "Zac"],
+                "Magos": ["Ahri", "Amumu", "Anivia", "Annie", "Aurelion Sol", "Azir", "Bardo", "Brand", "Cassiopeia", "Cho'Gath", "Diana", "Elise", "Evelynn", "Ezreal", "Fiddlesticks", "Galio", "Gragas", "Heimerdinger", "Ivern", "Janna", "Jhin", "Karma", "Karthus", "Kassadin", "Katarina", "Kennen", "Kog'Maw", "Leblanc", "Lillia", "Lissandra", "Lulu", "Lux", "Malzahar", "Maokai", "Morgana", "Nami", "Neeko", "Nidalee", "Orianna", "Renata Glasc", "Rumble", "Ryze", "Seraphine", "Sona", "Soraka", "Swain", "Sylas", "Syndra", "Taliyah", "TwistedFate", "Varus", "Veigar", "Vel'Koz", "Vex", "Viktor", "Vladimir", "Xerath", "Yuumi", "Ziggs", "Zilean", "Zoe", "Zyra"],
+                "Suportes": ["Alistar", "Anivia", "Ashe", "Bardo", "Braum", "Fiddlesticks", "Heimerdinger", "Ivern", "Janna", "Karma", "Kayle", "Leona", "Lulu", "Lux", "Morgana", "Nami", "Nautilus", "Neeko", "Orianna", "Pyke", "Rakan", "Rell", "Renata Glasc", "Senna", "Seraphine", "Sona", "Soraka", "Tahm Kench", "Taliyah", "Taric", "Thresh", "Yuumi", "Zilean", "Zoe", "Zyra"],
+                "Tanques": ["Aatrox", "Alistar", "Amumu", "Blitzcrank", "Braum", "Camille", "Cho'Gath", "Darius", "Dr. Mundo", "Galio", "Garen", "Gnar", "Hecarim", "Illaoi", "JarvanIV", "Kled", "K'Sante", "Leona", "Malphite", "Maokai", "Wukong", "Nasus", "Nautilus", "Nunu", "Olaf", "Ornn", "Poppy", "Rammus", "Rell", "Renekton", "Sejuani", "Sett", "Shen", "Shyvana", "Singed", "Sion", "Skarner", "Tahm Kench", "Trundle", "Udyr", "Urgot", "Volibear", "Warwick", "Yorick", "Zac"]
+            }
         }
     },
     
-    "variedade": {
-        "min": 5,
-        "champs": {
-            "Assassinos": ["Ahri", "Akali", "Akshan", "Ekko", "Evelynn", "Fiora", "Fizz", "Gwen", "Irelia", "Jax", "Kassadin", "Katarina", "Kayn", "Khazix", "Leblanc", "LeeSin", "Malzahar", "MasterYi", "Nidalee", "Nilah", "Nocturne", "Pantheon", "Pyke", "Qiyana", "Quinn", "Rengar", "Riven", "Shaco", "Sylas", "Talon", "Teemo", "Tristana", "Tryndamere", "Twitch", "Vayne", "Vi", "Viego", "XinZhao", "Yasuo", "Yone", "Zed"],
-            "Atiradores": ["Akshan", "Aphelios", "Ashe", "Azir", "Caitlyn", "Corki", "Draven", "Ezreal", "Graves", "Jayce", "Jhin", "Jinx", "Kaisa", "Kalista", "Kennen", "Kindred", "KogMaw", "Lucian", "MissFortune", "Quinn", "Samira", "Senna", "Sivir", "Teemo", "Tristana", "Twitch", "Varus", "Vayne", "Xayah", "Zeri"],
-            "Lutadores": ["Aatrox", "Belveth", "Blitzcrank", "Camille", "Darius", "Diana", "DrMundo", "Ekko", "Elise", "Fiora", "Fizz", "Gangplank", "Garen", "Gnar", "Gragas", "Gwen", "Hecarim", "Illaoi", "Irelia", "JarvanIV", "Jax", "Jayce", "Kayle", "Kayn", "Kled", "KSante", "LeeSin", "Lillia", "Malphite", "MasterYi", "MonkeyKing", "Mordekaiser", "Nasus", "Nilah", "Nocturne", "Nunu", "Olaf", "Ornn", "Pantheon", "Poppy", "Qiyana", "Rammus", "RekSai", "Renekton", "Rengar", "Riven", "Rumble", "Ryze", "Sejuani", "Sett", "Shyvana", "Singed", "Sion", "Skarner", "Swain", "Taric", "Thresh", "Trundle", "Tryndamere", "Udyr", "Urgot", "Vi", "Viego", "Volibear", "Warwick", "XinZhao", "Yasuo", "Yone", "Yorick", "Zac"],
-            "Magos": ["Ahri", "Amumu", "Anivia", "Annie", "AurelionSol", "Azir", "Bard", "Brand", "Cassiopeia", "Chogath", "Diana", "Elise", "Evelynn", "Ezreal", "Fiddlesticks", "Galio", "Gragas", "Heimerdinger", "Ivern", "Janna", "Jhin", "Karma", "Karthus", "Kassadin", "Katarina", "Kennen", "KogMaw", "Leblanc", "Lillia", "Lissandra", "Lulu", "Lux", "Malzahar", "Maokai", "Morgana", "Nami", "Neeko", "Nidalee", "Orianna", "Renata", "Rumble", "Ryze", "Seraphine", "Sona", "Soraka", "Swain", "Sylas", "Syndra", "Taliyah", "TwistedFate", "Varus", "Veigar", "Velkoz", "Vex", "Viktor", "Vladimir", "Xerath", "Yuumi", "Ziggs", "Zilean", "Zoe", "Zyra"],
-            "Suportes": ["Alistar", "Anivia", "Ashe", "Bard", "Braum", "Fiddlesticks", "Heimerdinger", "Ivern", "Janna", "Karma", "Kayle", "Leona", "Lulu", "Lux", "Morgana", "Nami", "Nautilus", "Neeko", "Orianna", "Pyke", "Rakan", "Rell", "Renata", "Senna", "Seraphine", "Sona", "Soraka", "TahmKench", "Taliyah", "Taric", "Thresh", "Yuumi", "Zilean", "Zoe", "Zyra"],
-            "Tanques": ["Aatrox", "Alistar", "Amumu", "Blitzcrank", "Braum", "Camille", "Chogath", "Darius", "DrMundo", "Galio", "Garen", "Gnar", "Hecarim", "Illaoi", "JarvanIV", "Kled", "KSante", "Leona", "Malphite", "Maokai", "MonkeyKing", "Nasus", "Nautilus", "Nunu", "Olaf", "Ornn", "Poppy", "Rammus", "Rell", "Renekton", "Sejuani", "Sett", "Shen", "Shyvana", "Singed", "Sion", "Skarner", "TahmKench", "Trundle", "Udyr", "Urgot", "Volibear", "Warwick", "Yorick", "Zac"]
-        }
-    },
 
     "regioes": {
-        "Águas de Sentina": ["Fizz", "Gangplank", "Graves", "Illaoi", "Miss Fortune", "Nautilus", "Nilah", "Pyke", "Tahm Kench", "Twisted Fate"],
+        "Águas de Sentina": ["Fizz", "Gangplank", "Graves", "Illaoi", "Miss Fortune", "Nautilus", "Nilah", "Pyke", "Tahm Kench", "TwistedFate"],
         "Bandópolis": ["Corki", "Fizz", "Gnar", "Heimerdinger", "Kennen", "Kled", "Lulu", "Poppy", "Rumble", "Teemo", "Tristana", "Veigar", "Vex", "Yuumi", "Ziggs"],
-        "Demacia": ["Fiora", "Galio", "Garen", "Jarvan IV", "Kayle", "Lucian", "Lux", "Morgana", "Poppy", "Quinn", "Shyvana", "Sona", "Sylas", "Vayne", "Xin Zhao"],
-        "Freljord": ["Anivia", "Ashe", "Braum", "Gnar", "Gragas", "Lissandra", "Nunu e Willump", "Olaf", "Ornn", "Sejuani", "Trundle", "Tryndamere", "Udyr", "Volibear"],
+        "Demacia": ["Fiora", "Galio", "Garen", "JarvanIV", "Kayle", "Lucian", "Lux", "Morgana", "Poppy", "Quinn", "Shyvana", "Sona", "Sylas", "Vayne", "Xin Zhao"],
+        "Freljord": ["Anivia", "Ashe", "Braum", "Gnar", "Gragas", "Lissandra", "Nunu", "Olaf", "Ornn", "Sejuani", "Trundle", "Tryndamere", "Udyr", "Volibear"],
         "Ionia": ["Ahri", "Akali", "Irelia", "Ivern", "Jhin", "Karma", "Kayn", "Kennen", "Lee Sin", "Lillia", "Master Yi", "Rakan", "Sett", "Shen", "Syndra", "Varus", "Wukong", "Xayah", "Yasuo", "Yone", "Zed"],
         "Ixtal": ["Malphite", "Milio", "Neeko", "Nidalee", "Qiyana", "Rengar", "Zyra"],
-        "Noxus": ["Cassiopeia", "Darius", "Draven", "Katarina", "Kled", "LeBlanc", "Rell", "Riven", "Samira", "Sion", "Swain", "Talon", "Vladimir"],
+        "Noxus": ["Cassiopeia", "Darius", "Draven", "Katarina", "Kled", "Leblanc", "Rell", "Riven", "Samira", "Sion", "Swain", "Talon", "Vladimir"],
         "Piltover": ["Caitlyn", "Camille", "Corki", "Ezreal", "Heimerdinger", "Jayce", "Orianna", "Seraphine", "Vi"],
         "Ilhas das Sombras": ["Elise", "Evelynn", "Fiddlesticks", "Gwen", "Hecarim", "Kalista", "Karthus", "Maokai", "Senna", "Thresh", "Viego", "Yorick"],
         "Shurima": ["Akshan", "Amumu", "Azir", "K'Sante", "Nasus", "Rammus", "Renekton", "Sivir", "Skarner", "Taliyah", "Xerath", "Zilean"],
-        "Targon": ["Aphelios", "Aurelion Sol", "Diana", "Leona", "Pantheon", "Soraka", "Taric", "Zoe."],
-        "Vazio": ["Bel'Veth", "Cho'Gath", "Kai'sa", "Kassadin", "Kha'Zix", "Kog'Maw", "Malzahar", "Rek'Sai", "Vel'Koz"],
+        "Targon": ["Aphelios", "Aurelion Sol", "Diana", "Leona", "Pantheon", "Soraka", "Taric", "Zoe"],
+        "Vazio": ["Bel'Veth", "Cho'Gath", "Kai'Sa", "Kassadin", "Kha'Zix", "Kog'Maw", "Malzahar", "Rek'Sai", "Vel'Koz"],
         "Zaun": ["Blitzcrank", "Dr. Mundo", "Ekko", "Janna", "Jinx", "Renata Glasc", "Singed", "Twitch", "Urgot", "Viktor", "Warwick", "Zac", "Zeri", "Ziggs"]
     }
 }
